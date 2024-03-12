@@ -4,6 +4,8 @@
 function calculateExpression(expression) {
   //Преревіряємо чи аргумент є рядком
   //Якщо так повертаємо виконананий код
+  return expression;
+
   // Якщо ні повертаємо текст "Argument is not a string"
 }
 
